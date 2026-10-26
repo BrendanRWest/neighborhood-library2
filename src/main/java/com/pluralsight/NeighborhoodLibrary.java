@@ -2,6 +2,7 @@ package com.pluralsight;
 import java.util.Scanner;
 
         public class NeighborhoodLibrary {
+
             static boolean condition1 = false;
             static boolean bigCondition = false;
             static int choice = 0;
